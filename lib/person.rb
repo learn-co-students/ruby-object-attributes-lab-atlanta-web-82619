@@ -25,7 +25,6 @@ class Person
         @job
     end
 
-    binding.pry
 
 end
 
